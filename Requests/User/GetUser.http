@@ -1,0 +1,2 @@
+@id = 2dc4cc31-a017-4472-8978-f3e5548f19bf
+GET http://localhost:5073/api/users/{{id}}
